@@ -10,3 +10,9 @@ Desarrollador full stack con python y angular
 - java
 - c++
 - .net
+
+## Hobbies
+- Leer
+- Jugar Volleyball
+- Escuchar musica
+
